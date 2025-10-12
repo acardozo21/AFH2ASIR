@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://acardozo21.github.io/AFH2ASIR/sitemap.xml
